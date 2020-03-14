@@ -24,7 +24,7 @@ function createWork(deployLink, gitLink, description){
 }
 
 createWork("https://happy-payne-d11aea.netlify.com","https://github.com/NateyLB/github-usercard",
-"Components and API project");
+"Components and API");
 createWork("https://boring-shaw-e19486.netlify.com/", "https://github.com/NateyLB/DOM-II",
 "DOM Manipulation and EvenListeners");
 createWork("https://friendly-bose-b5a0bc.netlify.com", "https://github.com/NateyLB/Sprint-Challenge-Applied-Javascript",
