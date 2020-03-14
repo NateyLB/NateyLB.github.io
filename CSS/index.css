@@ -279,6 +279,7 @@ table {
 }
 .artifactsContainer .gitLink a i {
   font-size: 10rem;
+  color: white;
 }
 @media (min-width: 992px) {
   .artifactsContainer .gitLink a i {
