@@ -191,7 +191,8 @@ table {
   align-items: center;
   width: 80%;
   height: 30vh;
-  background-color: #8d8787;
+  background-image: url("../images/pic03.jpg");
+  background-size: cover;
   border-radius: 10px;
 }
 @media (min-width: 576px) {
@@ -256,7 +257,8 @@ table {
   align-items: center;
   width: 80%;
   height: 35vh;
-  background-color: #8d8787;
+  background-image: url("../images/pic03.jpg");
+  background-size: cover;
   border-radius: 10px;
 }
 .aboutContainer .backgroundCard .about {
