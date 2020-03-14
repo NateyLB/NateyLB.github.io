@@ -28,4 +28,4 @@ createWork("https://happy-payne-d11aea.netlify.com","https://github.com/NateyLB/
 createWork("https://boring-shaw-e19486.netlify.com/", "https://github.com/NateyLB/DOM-II",
 "DOM Manipulation and EvenListeners");
 createWork("https://friendly-bose-b5a0bc.netlify.com", "https://github.com/NateyLB/Sprint-Challenge-Applied-Javascript",
-"Applied JavaScript, DOM Manipulation, and Components")
+"Applied JavaScript, DOM Manipulation, and Components");
