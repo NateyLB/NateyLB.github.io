@@ -141,13 +141,13 @@ table {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  width: 50%;
+  width: 75%;
   height: 5vh;
 }
 .header .nav a {
   text-decoration: none;
   color: white;
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 @media (min-width: 768px) {
   .header .nav a {
