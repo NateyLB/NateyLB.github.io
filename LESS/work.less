@@ -3,27 +3,34 @@
     width: 100%;
 
     .card{
-        margin-top: 3.5vh;
         .flexDisplay(column, space-evenly, center);
-        height: 40vh;
+        height: 30vh;
 
-        @media @desktop{
+        @media @xldesktop{
             height: 80vh;
         }
-        .iframe{
-            width: 80%;
-            height: 30vh;
-            border-radius: 10px;
 
-            @media @desktop{
-                height: 60vh;
+       
+        .iframe{
+            width: 160%;
+            height: 60vh;
+            border-radius: 10px;
+            transform: scale(.5, .5);
+           
+            @media @xldesktop{
+                height: 75vh;
             }
+            
         }
 
         a{
             text-decoration: none;
             color: white;
-            font-size: 2rem;
+            font-size: .5rem;
+
+            @media @tablet{
+                font-size: 1rem;
+            }
         }
 
     }

@@ -61,11 +61,12 @@ table {
         a{
             text-decoration: none;
             color: white;
-            font-size: 2rem;
+            font-size: .5rem;
 
-            @media @desktop{
-                font-size: 1.25rem
+            @media @tablet{
+                font-size: 1rem;
             }
+
         }
     }
 }
@@ -90,31 +91,31 @@ table {
 }
 
 .introContainer{
-    padding-top: 5vh;
     .flexDisplay(column, space-around, center);
-    height: 30vh;
+    height: 25vh;
     width: 100%;
 
-    @media @mobile{
+    @media @tablet{
         height: 20vh;
     }
+
     .backgroundCard{
         .flexDisplay(column, space-around, center);
         width: 80%;
-        height: 30vh;
+        height: 15vh;
         background-image: url("../images/pic03.jpg");
         background-size: cover;
         border-radius: 10px;
 
-        @media @mobile{
-            height: 20vh;
+        @media @tablet{
+            height: 10vh;
         }
 
     .intro{
-        font-size: 2rem;
+        font-size: .5rem;
         width: 90%;
-        @media @desktop{
-            font-size: 1.25rem
+        @media @tablet{
+            font-size: 1rem;
         }
     }
 }

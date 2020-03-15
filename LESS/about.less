@@ -1,20 +1,44 @@
 .aboutContainer{
-    padding-top: 5vh;
     .flexDisplay(column, space-around, center);
-    height: 35vh;
+    height: 50vh;
     width: 100%;
+
+    @media @tablet{
+        height: 40vh;
+    }
+
+    @media @xldesktop{
+        height: 65vh;
+    }
+
+  
+
+  
     .backgroundCard{
         .flexDisplay(column, space-around, center);
         width: 80%;
-        height: 35vh;
+        height: 40vh;
         background-image: url("../images/pic03.jpg");
         background-size: cover;
         border-radius: 10px;
 
+        @media @tablet{
+            height: 30vh;
+        }
+
+        @media @xldesktop{
+            height: 55vh;
+        }
+
+      
 
     .about{
-        font-size: 2rem;
         width: 90%;
+        font-size: .5rem;
+
+        @media @tablet{
+            font-size: 1rem;
+        }
         @media @desktop{
             font-size: 1.25rem
         }
@@ -29,7 +53,7 @@
         margin-top: 5vh;
         a{
             i{
-                font-size: 10rem;
+                font-size: 5rem;
                 color: white;
 
                 @media @desktop {
