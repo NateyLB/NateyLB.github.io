@@ -176,7 +176,7 @@ table {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  height: 25vh;
+  height: 20vh;
   width: 100%;
 }
 @media (min-width: 768px) {
@@ -190,7 +190,7 @@ table {
   justify-content: space-around;
   align-items: center;
   width: 80%;
-  height: 15vh;
+  height: 10vh;
   background-image: url("../images/pic03.jpg");
   background-size: cover;
   border-radius: 10px;
@@ -251,7 +251,7 @@ table {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  height: 50vh;
+  height: 35vh;
   width: 100%;
 }
 @media (min-width: 768px) {
@@ -261,7 +261,7 @@ table {
 }
 @media (min-width: 1200px) {
   .aboutContainer {
-    height: 65vh;
+    height: 55vh;
   }
 }
 .aboutContainer .backgroundCard {
@@ -270,7 +270,7 @@ table {
   justify-content: space-around;
   align-items: center;
   width: 80%;
-  height: 40vh;
+  height: 25vh;
   background-image: url("../images/pic03.jpg");
   background-size: cover;
   border-radius: 10px;
@@ -282,7 +282,7 @@ table {
 }
 @media (min-width: 1200px) {
   .aboutContainer .backgroundCard {
-    height: 55vh;
+    height: 45vh;
   }
 }
 .aboutContainer .backgroundCard .about {
