@@ -147,7 +147,7 @@ table {
 .header .nav a {
   text-decoration: none;
   color: white;
-  font-size: 0.5rem;
+  font-size: 0.75rem;
 }
 @media (min-width: 768px) {
   .header .nav a {
@@ -201,7 +201,7 @@ table {
   }
 }
 .introContainer .backgroundCard .intro {
-  font-size: 0.5rem;
+  font-size: 0.6rem;
   width: 90%;
 }
 @media (min-width: 768px) {
@@ -287,7 +287,7 @@ table {
 }
 .aboutContainer .backgroundCard .about {
   width: 90%;
-  font-size: 0.5rem;
+  font-size: 0.75rem;
 }
 @media (min-width: 768px) {
   .aboutContainer .backgroundCard .about {
