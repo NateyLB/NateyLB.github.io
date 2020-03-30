@@ -23,9 +23,7 @@ function createWork(deployLink, gitLink, description){
     return work;
 }
 
-createWork("https://happy-payne-d11aea.netlify.com","https://github.com/NateyLB/github-usercard",
-"Components and API");
-createWork("https://boring-shaw-e19486.netlify.com/", "https://github.com/NateyLB/DOM-II",
-"DOM Manipulation and EvenListeners");
+createWork("https://condescending-nobel-2a0b3d.netlify.com/", "https://github.com/NateyLB/Sprint-Challenge-Lambda-Eats-starter",
+"React Router, Yup Form Validation, Cypress.io testing");
 createWork("https://friendly-bose-b5a0bc.netlify.com", "https://github.com/NateyLB/Sprint-Challenge-Applied-Javascript",
-"Applied JavaScript, DOM Manipulation, and Components");
+"DOM Manipulation, and Components");
