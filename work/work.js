@@ -26,6 +26,6 @@ function createWork(deployLink, gitLink, description){
 createWork("https://condescending-nobel-2a0b3d.netlify.com/", "https://github.com/NateyLB/Sprint-Challenge-Lambda-Eats-starter",
 "React Router, Yup Form Validation, Cypress.io testing");
 createWork('https://goofy-nightingale-dafcc4.netlify.com/', "https://github.com/NateyLB/Sprint-Challenge-React-Wars",
-"React Components and Axios API calls, ")
+"React Components and Axios API calls ")
 createWork("https://friendly-bose-b5a0bc.netlify.com", "https://github.com/NateyLB/Sprint-Challenge-Applied-Javascript",
 "DOM Manipulation, and Components");
