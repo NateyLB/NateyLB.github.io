@@ -26,7 +26,7 @@ function createWork(deployLink, gitLink, description){
 createWork("https://random-dog.netlify.app/", "https://github.com/NateyLB/React-Redux-App", "Redux Thunk Middleware | Reducers | Actions ")
 createWork("https://loving-minsky-986148.netlify.com/", "https://github.com/NateyLB/React-Github-User-Card",
 "React Class Components | Axios API Calls");
-createWork("https://condescending-nobel-2a0b3d.netlify.com/", "https://github.com/NateyLB/Sprint-Challenge-Lambda-Eats-starter",
+createWork("https://festive-jepsen-77ab8d.netlify.app/", "https://github.com/NateyLB/Sprint-Challenge-Lambda-Eats-starter",
 "React Router | Yup Form Validation | Cypress.io Testing");
 createWork('https://goofy-nightingale-dafcc4.netlify.com/', "https://github.com/NateyLB/Sprint-Challenge-React-Wars",
 "React Function Components | Axios API calls ")
