@@ -23,7 +23,6 @@ function createWork(deployLink, gitLink, description){
     return work;
 }
 
-createWork("https://dreamy-neumann-ce0539.netlify.app", "https://github.com/NateyLB/Auth-Friends", "React-Router | Client-Side Authorization | Username: Lambda School, Password: i<3Lambd4")
 createWork("https://random-dog.netlify.app/", "https://github.com/NateyLB/React-Redux-App", "Redux Thunk Middleware | Reducers | Actions ")
 createWork("https://loving-minsky-986148.netlify.com/", "https://github.com/NateyLB/React-Github-User-Card",
 "React Class Components | Axios API Calls");
